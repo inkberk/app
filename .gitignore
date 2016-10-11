@@ -35,7 +35,8 @@ node_modules
 jspm_packages
 /git
 /hub
-/client/bower_components
+
+bower_components
 
 # Optional npm cache directory
 .npm
